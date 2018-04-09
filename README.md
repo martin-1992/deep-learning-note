@@ -19,11 +19,11 @@ http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/RNN%20training%2
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Structured%20Introduction%20(v2).ecm.mp4/index.html
 
 #### Parameter Initialization:
-结合了《解析卷积神经网络—深度学习实践手册》，感谢作者魏秀参（Xiu-Shen WEI），原书地址：<\br >
+结合了《解析卷积神经网络—深度学习实践手册》，感谢作者魏秀参（Xiu-Shen WEI），原书地址:
 http://lamda.nju.edu.cn/weixs/book/CNN_book.html
 
 #### word2vec: 
-参考论文Xin Rong的word2vec Parameter Learning Explained，以及李沐老师的深度学习课程 <\br >
+参考论文Xin Rong的word2vec Parameter Learning Explained，以及李沐老师的深度学习课程
 http://zh.gluon.ai/chapter_natural-language-processing/index.html
 
 #### sigmoid_network，使用转换函数为sigmoid，英文版地址：
