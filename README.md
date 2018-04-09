@@ -3,19 +3,19 @@
 ### 李宏毅教授深度学习 
 课程地址：http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
 
-Backpropagation: <\br >
+### Backpropagation:
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html
 
-Tips for Training Deep Neural Network: <\br >
+### Tips for Training Deep Neural Network: 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).ecm.mp4/index.html
 
-Neural Network with Memory: <\br >
+### Neural Network with Memory: 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/RNN%20(v4).ecm.mp4/index.html
 
-Training Recurrent Neural Network: <\br >
+### Training Recurrent Neural Network:
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/RNN%20training%20(v6).ecm.mp4/index.html
 
-Introduction of Structured Learning: <\br >
+### Introduction of Structured Learning: 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Structured%20Introduction%20(v2).ecm.mp4/index.html
 
 ### Parameter Initialization:
