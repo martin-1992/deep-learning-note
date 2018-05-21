@@ -1,7 +1,6 @@
 # deep learning note
 
-### 李宏毅教授深度学习 
-课程地址：http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
+### [李宏毅教授深度学习](http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html '课程地址')
 
 #### [Backpropagation](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html '反向传播')
 
