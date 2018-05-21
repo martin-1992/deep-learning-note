@@ -3,8 +3,7 @@
 ### 李宏毅教授深度学习 
 课程地址：http://speech.ee.ntu.edu.tw/~tlkagk/courses_MLSD15_2.html
 
-#### Backpropagation:
-http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html
+#### [Backpropagation](http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/DNN%20backprop.ecm.mp4/index.html '反向传播'):
 
 #### Tips for Training Deep Neural Network: 
 http://speech.ee.ntu.edu.tw/~tlkagk/courses/MLDS_2015_2/Lecture/Deep%20More%20(v2).ecm.mp4/index.html
