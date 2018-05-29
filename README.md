@@ -19,3 +19,6 @@
 参考论文Xin Rong的word2vec Parameter Learning Explained，以及李沐老师的[深度学习课程](http://zh.gluon.ai/chapter_natural-language-processing/index.html '李沐深度学习课程')
 
 #### sigmoid_network，使用转换函数为sigmoid，[参考代码地址](https://github.com/mnielsen/neural-networks-and-deep-learning)
+
+#### CNN For NLP
+[Understanding Convolutional Neural Networks for NLP（译文）](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/ '原文地址')
