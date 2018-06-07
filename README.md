@@ -21,4 +21,5 @@
 #### sigmoid_network，使用转换函数为sigmoid，[参考代码地址](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 #### CNN For NLP
-[Understanding Convolutional Neural Networks for NLP（译文）](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/ '原文地址')
+[Understanding Convolutional Neural Networks for NLP（译文）](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/ '原文地址')<br />
+[Implementing a CNN for Text Classification in TensorFlow（译文）](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/ '原文地址')
