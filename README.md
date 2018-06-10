@@ -22,7 +22,7 @@
 
 #### CNN For NLP
 [Understanding Convolutional Neural Networks for NLP（译文）](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/ '原文地址')<br />
-[Implementing a CNN for Text Classification in TensorFlow（译文）](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/ '原文地址')
+[Implementing a CNN for Text Classification in TensorFlow（译文）](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/ '原文地址')<br />
 [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882 )
 
 
