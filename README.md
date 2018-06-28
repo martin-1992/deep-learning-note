@@ -34,3 +34,5 @@
 
 #### Weight Initialization
 译成中文，原代码地址：https://github.com/udacity/deep-learning/tree/master/weight-initialization 
+
+http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html
