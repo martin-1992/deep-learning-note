@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\GitHub\\deep-learning-note\\seq2seq\\best_model.ckpt"
+all_model_checkpoint_paths: "D:\\GitHub\\deep-learning-note\\seq2seq\\best_model.ckpt"
